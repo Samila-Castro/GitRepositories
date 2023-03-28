@@ -1,6 +1,5 @@
 import styles from "./Header.module.css";
 import { GithubLogo } from "@phosphor-icons/react";
-import { useState } from "react";
 import React from "react";
 import { DarkModeSwitch } from "react-toggle-dark-mode";
 
