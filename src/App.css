@@ -141,6 +141,10 @@ main {
     height: 39rem;
   }
 
+  .inputWrapper {
+    padding-left: 45px;
+  }
+
   .profile {
     gap: 0.5rem;
   }
