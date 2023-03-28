@@ -3,26 +3,24 @@
   max-width: 32rem;
   height: 30rem;
   position: relative;
-
   backdrop-filter: blur(10px);
-
   border-radius: 1rem;
   padding: 1rem;
   overflow-y: auto;
 }
 
 .card::-webkit-scrollbar {
-  width: 4px; /* width of the entire scrollbar */
+  width: 4px;
 }
 
 .card::-webkit-scrollbar-track {
-  background: transparent; /* color of the tracking area */
+  background: transparent;
 }
 
 .card::-webkit-scrollbar-thumb {
-  background-color: rgb(200, 200, 238); /* color of the scroll thumb */
-  border-radius: 2px; /* roundness of the scroll thumb */
-  border: none; /* creates padding around scroll thumb */
+  background-color: rgb(200, 200, 238);
+  border-radius: 2px;
+  border: none;
 }
 
 .content {
@@ -36,7 +34,6 @@
   width: 3rem;
   border-radius: 50%;
   border: 0.5px solid #818183;
-
   outline: 0.5px solid #ffffff;
 }
 
