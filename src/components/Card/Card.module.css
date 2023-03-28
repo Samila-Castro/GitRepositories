@@ -95,3 +95,9 @@
     max-width: 40rem;
   }
 }
+
+@media screen and (width < 425px) and (width > 340px) {
+  .card {
+    max-width: 40rem;
+  }
+}
